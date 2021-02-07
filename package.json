@@ -2,5 +2,14 @@
   "name": "MESO",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PzaThief/MESO-Maple-coin"
+  },
+  "author": "Minha, Jeong",
+  "license": "N/A",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
